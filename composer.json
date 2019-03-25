@@ -1,0 +1,14 @@
+{
+    "name": "fatima/slim0319",
+    "description": "projet slim",
+    "type": "projet",
+    "require": {
+        "slim/slim": "^3.12"
+    },
+    "authors": [
+        {
+            "name": "fatima",
+            "email": "fatima.elmajdoub@gmail.com"
+        }
+    ]
+}
