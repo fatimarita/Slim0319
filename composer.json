@@ -3,7 +3,8 @@
     "description": "projet slim",
     "type": "projet",
     "require": {
-        "slim/slim": "^3.12"
+        "slim/slim": "^3.12",
+        "squizlabs/php_codesniffer": "^3.4"
     },
     "authors": [
         {
